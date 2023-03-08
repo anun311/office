@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T01:45:32.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="UUPiHApfT8Jxn-wpZ3Zr" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T01:54:23.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="H7s_mL-LSfvTkoEGplAo" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1253" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -44,7 +44,7 @@
             <mxPoint x="541" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1RqYY2e8a6liGjpJobrj-7" value="ST: ห้องตรวจแพทย์&lt;br&gt;ซักประวัติ สอบถามอาการ วินิจฉัย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1RqYY2e8a6liGjpJobrj-7" value="ST: ห้องตรวจแพทย์&lt;br&gt;ซักประวัติ สอบถามอาการ &lt;br&gt;เรียกดูประวัติการรักษา วินิจฉัย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="330" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1RqYY2e8a6liGjpJobrj-8" value="Order LAB?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -96,6 +96,18 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="210" as="sourcePoint" />
             <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-19" value="ST: ห้องตรวจแพทย์&lt;br&gt;บันทึกรายการตรวจเบื้องต้น,&lt;br&gt;Order list ต้องการ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="540" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-24" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;1&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="545" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-24" target="1RqYY2e8a6liGjpJobrj-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="565" as="sourcePoint" />
+            <mxPoint x="760" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
