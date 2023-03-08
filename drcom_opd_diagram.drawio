@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T02:02:37.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="R1FFeMMbmQ_xWiDIc6vk" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T02:08:51.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="wRQjJ4clR3k1x_NsWLup" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="607" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="871" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -139,17 +139,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1RqYY2e8a6liGjpJobrj-30" value="ST: ห้องตรวจแพทย์&lt;br&gt;บันทึกรายการตรวจเบื้องต้น,&lt;br&gt;Order list ที่ต้องการ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="751" y="810" width="180" height="50" as="geometry" />
+          <mxGeometry x="438" y="860" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1RqYY2e8a6liGjpJobrj-31" value="ST: ห้องตรวจแพทย์&lt;br&gt;ส่งออกจากห้องตรวจฯ พร้อมสถานะ.." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="771.5" y="540" width="199" height="50" as="geometry" />
+          <mxGeometry x="771.5" y="535" width="199" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1RqYY2e8a6liGjpJobrj-32" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-12" target="1RqYY2e8a6liGjpJobrj-30">
+        <mxCell id="1RqYY2e8a6liGjpJobrj-32" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-12" target="1RqYY2e8a6liGjpJobrj-30">
           <mxGeometry y="13" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="530" y="810" as="sourcePoint" />
-            <mxPoint x="780" y="850" as="targetPoint" />
+            <mxPoint x="530" y="950" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-19" target="1RqYY2e8a6liGjpJobrj-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="761" y="480" as="sourcePoint" />
+            <mxPoint x="791" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-35" value="สถานะ:&lt;br&gt;ผู้ป่วยส่งตรวจ&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;รอผล&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="788" y="620" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1RqYY2e8a6liGjpJobrj-36" value="สถานะ:&lt;br&gt;ผู้ป่วยส่งตรวจ&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;รอผล&lt;/font&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="788" y="720" width="166" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
