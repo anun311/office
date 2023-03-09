@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T13:22:35.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="4NNsMpPjNmM0R1ZYOixi" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T13:24:26.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="8y-Et7U-X3HfvuA7Rqcc" version="21.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="956" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,9 +293,6 @@
         <mxCell id="1RqYY2e8a6liGjpJobrj-71" value="มี Lab?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1300" y="482" width="107" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1RqYY2e8a6liGjpJobrj-72" value="มี X-ray?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1300" y="578.75" width="107" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1RqYY2e8a6liGjpJobrj-73" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-71" target="1RqYY2e8a6liGjpJobrj-68" edge="1">
           <mxGeometry x="-0.0417" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -303,17 +300,17 @@
             <mxPoint x="1060" y="682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1RqYY2e8a6liGjpJobrj-74" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-71" target="1RqYY2e8a6liGjpJobrj-72" edge="1">
+        <mxCell id="1RqYY2e8a6liGjpJobrj-74" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-71" target="qahBIfakXGSAEwPWHKox-30" edge="1">
           <mxGeometry y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="881" y="712" as="sourcePoint" />
-            <mxPoint x="1354" y="585" as="targetPoint" />
+            <mxPoint x="1353.5" y="578.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1RqYY2e8a6liGjpJobrj-75" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1RqYY2e8a6liGjpJobrj-72" target="1RqYY2e8a6liGjpJobrj-69" edge="1">
+        <mxCell id="1RqYY2e8a6liGjpJobrj-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-30" target="1RqYY2e8a6liGjpJobrj-69" edge="1">
           <mxGeometry x="-0.0417" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1417" y="515" as="sourcePoint" />
+            <mxPoint x="1407" y="608.75" as="sourcePoint" />
             <mxPoint x="1480" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -344,9 +341,6 @@
         <mxCell id="qahBIfakXGSAEwPWHKox-2" value="มี หัตถการแพทย์?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="674" width="107" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qahBIfakXGSAEwPWHKox-3" value="มี บริการพยาบาล?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="770.75" width="107" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qahBIfakXGSAEwPWHKox-4" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-2" target="qahBIfakXGSAEwPWHKox-0">
           <mxGeometry x="-0.0417" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
@@ -354,17 +348,17 @@
             <mxPoint x="1060" y="874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qahBIfakXGSAEwPWHKox-5" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-2" target="qahBIfakXGSAEwPWHKox-3">
+        <mxCell id="qahBIfakXGSAEwPWHKox-5" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-2" target="qahBIfakXGSAEwPWHKox-31">
           <mxGeometry y="9" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="881" y="904" as="sourcePoint" />
-            <mxPoint x="1354" y="777" as="targetPoint" />
+            <mxPoint x="1353.5" y="770.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qahBIfakXGSAEwPWHKox-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-3" target="qahBIfakXGSAEwPWHKox-1">
+        <mxCell id="qahBIfakXGSAEwPWHKox-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qahBIfakXGSAEwPWHKox-31" target="qahBIfakXGSAEwPWHKox-1">
           <mxGeometry x="-0.0417" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="1417" y="707" as="sourcePoint" />
+            <mxPoint x="1407" y="800.75" as="sourcePoint" />
             <mxPoint x="1480" y="707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -424,6 +418,12 @@
         </mxCell>
         <mxCell id="qahBIfakXGSAEwPWHKox-28" value="สถานะ:&lt;br&gt;ผู้ป่วย&lt;font style=&quot;background-color: rgb(179, 255, 102);&quot; color=&quot;#000000&quot;&gt;ตรวจเสร็จกลับบ้าน&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="790" y="960.75" width="162" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qahBIfakXGSAEwPWHKox-30" value="มี X-ray" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1298.5" y="594.13" width="110" height="29.25" as="geometry" />
+        </mxCell>
+        <mxCell id="qahBIfakXGSAEwPWHKox-31" value="มี บริการพยาบาล" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1298.5" y="786.12" width="110" height="29.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
