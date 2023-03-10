@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T05:42:14.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="eNvGRpuFd9t0b4I22ZfY" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T06:05:16.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63" etag="1n5EudrVpq0EMwPY_1z_" version="21.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2310" dy="1343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -588,6 +588,12 @@
             <mxPoint x="1365" y="1423" as="sourcePoint" />
             <mxPoint x="1365" y="1450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yvNfWJmXIzpKwHx-HULG-42" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;4&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="1010" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yvNfWJmXIzpKwHx-HULG-43" value="ST: ศูนย์ Admit ผู้ป่วยใน&lt;br&gt;ผู้ป่วยยื่นใบสั่งยา (ถ้ามี), &lt;br&gt;พิมพ์ sticker, จัดยาตาม Order" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="1003.75" width="200" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
