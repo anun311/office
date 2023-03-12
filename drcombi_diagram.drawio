@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T05:54:26.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="JdI5V2FqAwxKY63M9U-p" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T07:18:07.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="sP8sbUJHmstsB6Myf03H" version="21.0.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="OPD-IPD">
     <mxGraphModel dx="1386" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1028,10 +1028,110 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qEAiJU13UEf10DBahYg9" name="ACC">
-    <mxGraphModel dx="1386" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="660" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="noZoARQSL-2DxWcedjPE-1" value="เจ้าหน้าที่คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-2" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-8">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="260" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-5" target="noZoARQSL-2DxWcedjPE-20">
+          <mxGeometry x="0.0065" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-4" value="มีจำนวนสินค้าเพียงพอ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="330" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-5" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจสอบคลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="170" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-8" target="noZoARQSL-2DxWcedjPE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="248" as="sourcePoint" />
+            <mxPoint x="441" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;1&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="175" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-8" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ติดต่อตกลงราคากับผู้ขาย,&lt;br&gt;ขอใบเสนอราคาจากผู้ขาย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-4">
+          <mxGeometry x="-0.3333" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="330" as="targetPoint" />
+            <mxPoint x="270" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-13" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบขอซื้อ (PR) &lt;br&gt;เพื่ออนุมัติซื้อ/จ้าง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-15" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบสั่งซื้อ/จ้าง (PO) จากระบบ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-16" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจรับพัสดุ/ยาให้ถูกต้องตาม PO และลงนามตรวจรับ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="650" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-17" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;รับพัสดุ/ยาจากใบกำกับสินค้า&lt;br&gt;และรวบรวมเอกสารส่งให้งานบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="730" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-18" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จำหน่ายพัสดุไปแผนกงาน/&lt;br&gt;โอนยาไปคลังย่อย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-19" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จบขั้นตอนการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="890" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-20" value="มีจำนวนสินค้าถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-21" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ปรับปรุงจำนวนสินค้าในระบบ&lt;br&gt;คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-22" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-21">
+          <mxGeometry y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="390" as="sourcePoint" />
+            <mxPoint x="270" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-7" target="noZoARQSL-2DxWcedjPE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="470" as="sourcePoint" />
+            <mxPoint x="270" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-1" target="noZoARQSL-2DxWcedjPE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="490" as="sourcePoint" />
+            <mxPoint x="290" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-7">
+          <mxGeometry x="-0.8519" y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="270" y="340" as="targetPoint" />
+            <mxPoint x="270" y="310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="355" />
+              <mxPoint x="640" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-21" target="noZoARQSL-2DxWcedjPE-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="205" as="sourcePoint" />
+            <mxPoint x="370" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
