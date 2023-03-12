@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T07:18:45.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="hlP1aBKQ3OJarUkczOzH" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T07:51:54.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="n0k5QWNaU2KvljWdAevc" version="21.0.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="OPD-IPD">
     <mxGraphModel dx="1386" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1028,7 +1028,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qEAiJU13UEf10DBahYg9" name="ACC-NOW">
-    <mxGraphModel dx="660" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1137,6 +1137,69 @@
             <mxPoint x="270" y="470" as="sourcePoint" />
             <mxPoint x="270" y="500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-15" target="noZoARQSL-2DxWcedjPE-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="620" as="sourcePoint" />
+            <mxPoint x="260" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-16" target="noZoARQSL-2DxWcedjPE-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="710" as="sourcePoint" />
+            <mxPoint x="270" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="noZoARQSL-2DxWcedjPE-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="710" as="sourcePoint" />
+            <mxPoint x="270" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-18" target="noZoARQSL-2DxWcedjPE-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="790" as="sourcePoint" />
+            <mxPoint x="270" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noZoARQSL-2DxWcedjPE-33" value="เจ้าหน้าที่ฝ่ายบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="noZoARQSL-2DxWcedjPE-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="780" as="sourcePoint" />
+            <mxPoint x="580" y="828" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-2" value="Skip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" connectable="0" parent="dSqNsIodyWDdaizZ1Ah2-1">
+          <mxGeometry x="0.288" y="-1" relative="1" as="geometry">
+            <mxPoint x="-9" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-3" value="ST: ฝ่ายบัญชี&lt;br&gt;รับเอกสารจากคลังฯ &lt;br&gt;วิเคราะห์รายการค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="810" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-33" target="dSqNsIodyWDdaizZ1Ah2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="870" as="sourcePoint" />
+            <mxPoint x="270" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-5" value="ST: ฝ่ายบัญชี&lt;br&gt;เตรียมเอกสารประกอบการทำบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="890" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-6" value="ST: ฝ่ายบัญชี&lt;br&gt;บันทึกรายการในบัญชี: &lt;br&gt;สมุดรายวันทั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="970" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-7" value="มีเลขบัญชีสำหรับรายการค้า?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1050" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-8" value="ST: ฝ่ายบัญชี&lt;br&gt;สร้างเลขบัญชีใหม่" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1050" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-9" value="ST: ฝ่ายบัญชี&lt;br&gt;ส่งผ่านในบัญชี: &lt;br&gt;บัญชีแยกประเภททั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1130" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
