@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T09:32:04.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="GQdx1c9Dez7uWQG3Gboy" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-12T10:05:09.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="Z5dGwRhgfNE5Gwte17Vl" version="21.0.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="OPD-IPD">
     <mxGraphModel dx="1386" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1032,90 +1032,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="noZoARQSL-2DxWcedjPE-1" value="เจ้าหน้าที่คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-1" value="เจ้าหน้าที่คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="100" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-2" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-8">
+        <mxCell id="noZoARQSL-2DxWcedjPE-2" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-8" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="260" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-5" target="noZoARQSL-2DxWcedjPE-20">
+        <mxCell id="noZoARQSL-2DxWcedjPE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-5" target="noZoARQSL-2DxWcedjPE-20" edge="1">
           <mxGeometry x="0.0065" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-4" value="มีจำนวนสินค้าเพียงพอ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-4" value="มีจำนวนสินค้าเพียงพอ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="330" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-5" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจสอบคลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-5" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจสอบคลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="170" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-8" target="noZoARQSL-2DxWcedjPE-13">
+        <mxCell id="noZoARQSL-2DxWcedjPE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-8" target="noZoARQSL-2DxWcedjPE-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="248" as="sourcePoint" />
             <mxPoint x="441" y="303" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;1&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-7" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;1&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="500" y="175" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-8" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ติดต่อตกลงราคากับผู้ขาย,&lt;br&gt;ขอใบเสนอราคาจากผู้ขาย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-8" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ติดต่อตกลงราคากับผู้ขาย,&lt;br&gt;ขอใบเสนอราคาจากผู้ขาย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="410" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-4">
+        <mxCell id="noZoARQSL-2DxWcedjPE-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-4" edge="1">
           <mxGeometry x="-0.3333" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="330" as="targetPoint" />
             <mxPoint x="270" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-13" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบขอซื้อ (PR) &lt;br&gt;เพื่ออนุมัติซื้อ/จ้าง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-13" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบขอซื้อ (PR) &lt;br&gt;เพื่ออนุมัติซื้อ/จ้าง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="490" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-15" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบสั่งซื้อ/จ้าง (PO) จากระบบ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-15" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จัดทำใบสั่งซื้อ/จ้าง (PO) จากระบบ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="570" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-16" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจรับพัสดุ/ยาให้ถูกต้องตาม PO และลงนามตรวจรับ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-16" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ตรวจรับพัสดุ/ยาให้ถูกต้องตาม PO และลงนามตรวจรับ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="650" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-17" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;รับพัสดุ/ยาจากใบกำกับสินค้า&lt;br&gt;และรวบรวมเอกสารส่งให้งานบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-17" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;รับพัสดุ/ยาจากใบกำกับสินค้า&lt;br&gt;และรวบรวมเอกสารส่งให้งานบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="730" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-18" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จำหน่ายพัสดุไปแผนกงาน/&lt;br&gt;โอนยาไปคลังย่อย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-18" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จำหน่ายพัสดุไปแผนกงาน/&lt;br&gt;โอนยาไปคลังย่อย" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="810" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-19" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จบขั้นตอนการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-19" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;จบขั้นตอนการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="890" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-20" value="มีจำนวนสินค้าถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-20" value="มีจำนวนสินค้าถูกต้อง?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="160" y="250" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-21" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ปรับปรุงจำนวนสินค้าในระบบ&lt;br&gt;คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="noZoARQSL-2DxWcedjPE-21" value="ST: คลังพัสดุ/คลังยากลาง&lt;br&gt;ปรับปรุงจำนวนสินค้าในระบบ&lt;br&gt;คลังพัสดุ/คลังยากลาง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-22" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-21">
+        <mxCell id="noZoARQSL-2DxWcedjPE-22" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-20" target="noZoARQSL-2DxWcedjPE-21" edge="1">
           <mxGeometry y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="390" as="sourcePoint" />
             <mxPoint x="270" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-7" target="noZoARQSL-2DxWcedjPE-5">
+        <mxCell id="noZoARQSL-2DxWcedjPE-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="noZoARQSL-2DxWcedjPE-7" target="noZoARQSL-2DxWcedjPE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="470" as="sourcePoint" />
             <mxPoint x="270" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-1" target="noZoARQSL-2DxWcedjPE-5">
+        <mxCell id="noZoARQSL-2DxWcedjPE-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-1" target="noZoARQSL-2DxWcedjPE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="490" as="sourcePoint" />
             <mxPoint x="290" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-7">
+        <mxCell id="noZoARQSL-2DxWcedjPE-26" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="noZoARQSL-2DxWcedjPE-4" target="noZoARQSL-2DxWcedjPE-7" edge="1">
           <mxGeometry x="-0.8519" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="340" as="targetPoint" />
@@ -1126,249 +1126,313 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-21" target="noZoARQSL-2DxWcedjPE-7">
+        <mxCell id="noZoARQSL-2DxWcedjPE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="noZoARQSL-2DxWcedjPE-21" target="noZoARQSL-2DxWcedjPE-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="205" as="sourcePoint" />
             <mxPoint x="370" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-13" target="noZoARQSL-2DxWcedjPE-15">
+        <mxCell id="noZoARQSL-2DxWcedjPE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-13" target="noZoARQSL-2DxWcedjPE-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="470" as="sourcePoint" />
             <mxPoint x="270" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-15" target="noZoARQSL-2DxWcedjPE-16">
+        <mxCell id="noZoARQSL-2DxWcedjPE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-15" target="noZoARQSL-2DxWcedjPE-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="620" as="sourcePoint" />
             <mxPoint x="260" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-16" target="noZoARQSL-2DxWcedjPE-17">
+        <mxCell id="noZoARQSL-2DxWcedjPE-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-16" target="noZoARQSL-2DxWcedjPE-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="710" as="sourcePoint" />
             <mxPoint x="270" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="noZoARQSL-2DxWcedjPE-18">
+        <mxCell id="noZoARQSL-2DxWcedjPE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="noZoARQSL-2DxWcedjPE-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="710" as="sourcePoint" />
             <mxPoint x="270" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-18" target="noZoARQSL-2DxWcedjPE-19">
+        <mxCell id="noZoARQSL-2DxWcedjPE-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-18" target="noZoARQSL-2DxWcedjPE-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="790" as="sourcePoint" />
             <mxPoint x="270" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="noZoARQSL-2DxWcedjPE-33" value="เจ้าหน้าที่ฝ่ายบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="730" width="200" height="50" as="geometry" />
+        <mxCell id="noZoARQSL-2DxWcedjPE-33" value="เจ้าหน้าที่ฝ่ายบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="850" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="noZoARQSL-2DxWcedjPE-33">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="noZoARQSL-2DxWcedjPE-17" target="YuSDF8P-QCdf2GNEPpNd-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="780" as="sourcePoint" />
-            <mxPoint x="580" y="828" as="targetPoint" />
+            <mxPoint x="400" y="610" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-2" value="Skip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" connectable="0" parent="dSqNsIodyWDdaizZ1Ah2-1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-2" value="Skip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="dSqNsIodyWDdaizZ1Ah2-1" vertex="1" connectable="0">
           <mxGeometry x="0.288" y="-1" relative="1" as="geometry">
             <mxPoint x="-9" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-3" value="ST: ฝ่ายบัญชี&lt;br&gt;รับเอกสารจากคลังฯ &lt;br&gt;วิเคราะห์รายการค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="810" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-3" value="ST: ฝ่ายบัญชี&lt;br&gt;รับเอกสารจากคลังฯ &lt;br&gt;วิเคราะห์รายการค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1010" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="noZoARQSL-2DxWcedjPE-33" target="dSqNsIodyWDdaizZ1Ah2-3">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="noZoARQSL-2DxWcedjPE-33" target="YuSDF8P-QCdf2GNEPpNd-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="870" as="sourcePoint" />
-            <mxPoint x="530" y="810" as="targetPoint" />
+            <mxPoint x="530" y="1100" as="sourcePoint" />
+            <mxPoint x="810" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-5" value="ST: ฝ่ายบัญชี&lt;br&gt;เตรียมเอกสารประกอบการทำบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="890" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-5" value="ST: ฝ่ายบัญชี&lt;br&gt;เตรียมเอกสารประกอบการทำบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1100" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-6" value="ST: ฝ่ายบัญชี&lt;br&gt;บันทึกรายการในบัญชี: &lt;br&gt;สมุดรายวันทั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="970" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-6" value="ST: ฝ่ายบัญชี&lt;br&gt;บันทึกรายการในบัญชี: &lt;br&gt;สมุดรายวันทั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1260" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-7" value="มีเลขบัญชีสำหรับรายการค้า?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1050" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-7" value="มีเลขบัญชีสำหรับรายการค้า?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1340" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-8" value="ST: ฝ่ายบัญชี&lt;br&gt;สร้างเลขบัญชีใหม่" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1050" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-8" value="ST: ฝ่ายบัญชี&lt;br&gt;สร้างเลขบัญชีใหม่" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="940" y="1340" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-9" value="ST: ฝ่ายบัญชี&lt;br&gt;ส่งผ่านข้อมูล: &lt;br&gt;บัญชีแยกประเภททั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1130" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-9" value="ST: ฝ่ายบัญชี&lt;br&gt;ส่งผ่านข้อมูล: &lt;br&gt;บัญชีแยกประเภททั่วไป" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1420" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-11" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;ส่งผ่านข้อมูล: งบทดลอง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1210" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-11" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;ส่งผ่านข้อมูล: งบทดลอง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1500" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-12" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;ส่งผ่านข้อมูล: งบการเงิน&lt;br&gt;งบกำไรขาดทุน-งบดุล" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1290" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-12" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;ส่งผ่านข้อมูล: งบการเงิน&lt;br&gt;งบกำไรขาดทุน-งบดุล" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1580" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-13" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;บันทึกรายการปิดบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1370" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-13" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;บันทึกรายการปิดบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1660" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-14" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;งบทดลองหลังปิดบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1450" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-14" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;งบทดลองหลังปิดบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1740" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-15" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;รายการปรับปรุง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1530" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-15" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;รายการปรับปรุง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1820" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-16" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;งบทดลองหลังรายการปรับปรุง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1610" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-16" value="ST: จนท.บัญชี (ภายนอก)&lt;br&gt;งบทดลองหลังรายการปรับปรุง" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1900" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-17" value="ST: ฝ่ายบัญชี&lt;br&gt;จบขั้นตอนการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1690" width="200" height="50" as="geometry" />
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-17" value="ST: ฝ่ายบัญชี&lt;br&gt;จบขั้นตอนการทำงาน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1980" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-3" target="dSqNsIodyWDdaizZ1Ah2-5">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-3" target="dSqNsIodyWDdaizZ1Ah2-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="870" as="sourcePoint" />
-            <mxPoint x="530" y="820" as="targetPoint" />
+            <mxPoint x="930" y="1080" as="sourcePoint" />
+            <mxPoint x="790" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-5" target="dSqNsIodyWDdaizZ1Ah2-6">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-5" target="YuSDF8P-QCdf2GNEPpNd-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="870" as="sourcePoint" />
-            <mxPoint x="530" y="900" as="targetPoint" />
+            <mxPoint x="790" y="1160" as="sourcePoint" />
+            <mxPoint x="790" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-6" target="dSqNsIodyWDdaizZ1Ah2-7">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-6" target="dSqNsIodyWDdaizZ1Ah2-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="950" as="sourcePoint" />
-            <mxPoint x="530" y="980" as="targetPoint" />
+            <mxPoint x="790" y="1240" as="sourcePoint" />
+            <mxPoint x="790" y="1270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-9" target="dSqNsIodyWDdaizZ1Ah2-11">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-9" target="dSqNsIodyWDdaizZ1Ah2-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1030" as="sourcePoint" />
-            <mxPoint x="530" y="1060" as="targetPoint" />
+            <mxPoint x="790" y="1320" as="sourcePoint" />
+            <mxPoint x="790" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-11" target="dSqNsIodyWDdaizZ1Ah2-12">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-11" target="dSqNsIodyWDdaizZ1Ah2-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1190" as="sourcePoint" />
-            <mxPoint x="530" y="1220" as="targetPoint" />
+            <mxPoint x="790" y="1480" as="sourcePoint" />
+            <mxPoint x="790" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-12" target="dSqNsIodyWDdaizZ1Ah2-13">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-12" target="dSqNsIodyWDdaizZ1Ah2-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1270" as="sourcePoint" />
-            <mxPoint x="530" y="1300" as="targetPoint" />
+            <mxPoint x="790" y="1560" as="sourcePoint" />
+            <mxPoint x="790" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-13" target="dSqNsIodyWDdaizZ1Ah2-14">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-13" target="dSqNsIodyWDdaizZ1Ah2-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1350" as="sourcePoint" />
-            <mxPoint x="530" y="1380" as="targetPoint" />
+            <mxPoint x="790" y="1640" as="sourcePoint" />
+            <mxPoint x="790" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-14" target="dSqNsIodyWDdaizZ1Ah2-15">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-14" target="dSqNsIodyWDdaizZ1Ah2-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1430" as="sourcePoint" />
-            <mxPoint x="530" y="1460" as="targetPoint" />
+            <mxPoint x="790" y="1720" as="sourcePoint" />
+            <mxPoint x="790" y="1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-15" target="dSqNsIodyWDdaizZ1Ah2-16">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-15" target="dSqNsIodyWDdaizZ1Ah2-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="1440" as="sourcePoint" />
-            <mxPoint x="540" y="1470" as="targetPoint" />
+            <mxPoint x="800" y="1730" as="sourcePoint" />
+            <mxPoint x="800" y="1760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-16" target="dSqNsIodyWDdaizZ1Ah2-17">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-16" target="dSqNsIodyWDdaizZ1Ah2-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="1590" as="sourcePoint" />
-            <mxPoint x="530" y="1620" as="targetPoint" />
+            <mxPoint x="790" y="1880" as="sourcePoint" />
+            <mxPoint x="790" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-28" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-7" target="dSqNsIodyWDdaizZ1Ah2-9">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-28" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-7" target="dSqNsIodyWDdaizZ1Ah2-9" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="580" y="1112.7586206896551" as="sourcePoint" />
-            <mxPoint x="270" y="420" as="targetPoint" />
+            <mxPoint x="840" y="1402.7586206896551" as="sourcePoint" />
+            <mxPoint x="530" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-7" target="dSqNsIodyWDdaizZ1Ah2-8">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-29" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-7" target="dSqNsIodyWDdaizZ1Ah2-8" edge="1">
           <mxGeometry y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="550" y="205" as="targetPoint" />
-            <mxPoint x="370" y="365" as="sourcePoint" />
+            <mxPoint x="810" y="495" as="targetPoint" />
+            <mxPoint x="630" y="655" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-8" target="dSqNsIodyWDdaizZ1Ah2-6">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-8" target="dSqNsIodyWDdaizZ1Ah2-6" edge="1">
           <mxGeometry y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="690" y="1085" as="targetPoint" />
-            <mxPoint x="630" y="1085" as="sourcePoint" />
+            <mxPoint x="945" y="1105" as="targetPoint" />
+            <mxPoint x="885" y="1105" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-31" value="เจ้าหน้าที่การเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-31" value="เจ้าหน้าที่การเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="680" y="401" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-32" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;สรุปรายได้รายวัน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-32" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;สรุปรายได้รายวัน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="680" y="475" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-33" value="รายได้เงินสด?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-33" value="รายได้เงินสด?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=space mono;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="680" y="561" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-35" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;1&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="760" y="735" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-35" target="noZoARQSL-2DxWcedjPE-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="765" as="sourcePoint" />
-            <mxPoint x="430" y="765" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-37" value="Skip" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" connectable="0" parent="dSqNsIodyWDdaizZ1Ah2-36">
-          <mxGeometry x="0.288" y="-1" relative="1" as="geometry">
-            <mxPoint x="14" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-38" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;ระบบเงินสด/Cash: เล่ม&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;A/2/B/8/9&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-38" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;ระบบลูกหนี้: เล่ม&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;4/5&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="950" y="561" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-39" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;ระบบลูกหนี้: เล่ม&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;4/5&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-39" value="ST: เจ้าหน้าที่การเงิน&lt;br&gt;ระบบเงินสด/Cash: เล่ม&amp;nbsp;A/2/B/8/9" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="680" y="645" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-33" target="dSqNsIodyWDdaizZ1Ah2-38">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-42" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-33" target="dSqNsIodyWDdaizZ1Ah2-38" edge="1">
           <mxGeometry x="-0.1429" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="1120" y="525" as="targetPoint" />
             <mxPoint x="940" y="685" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-39" target="dSqNsIodyWDdaizZ1Ah2-35">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-39" target="noZoARQSL-2DxWcedjPE-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="790" as="sourcePoint" />
-            <mxPoint x="780" y="730" as="targetPoint" />
+            <mxPoint x="780" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-32" target="dSqNsIodyWDdaizZ1Ah2-33">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-32" target="dSqNsIodyWDdaizZ1Ah2-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="705" as="sourcePoint" />
             <mxPoint x="790" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-46" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-33" target="dSqNsIodyWDdaizZ1Ah2-39">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-46" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-33" target="dSqNsIodyWDdaizZ1Ah2-39" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="770" y="623.4285714285714" as="sourcePoint" />
             <mxPoint x="440" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-31" target="dSqNsIodyWDdaizZ1Ah2-32">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-47" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-31" target="dSqNsIodyWDdaizZ1Ah2-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="535" as="sourcePoint" />
             <mxPoint x="790" y="571" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSqNsIodyWDdaizZ1Ah2-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.523;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="dSqNsIodyWDdaizZ1Ah2-38" target="dSqNsIodyWDdaizZ1Ah2-35">
+        <mxCell id="dSqNsIodyWDdaizZ1Ah2-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dSqNsIodyWDdaizZ1Ah2-38" target="YuSDF8P-QCdf2GNEPpNd-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="705" as="sourcePoint" />
+            <mxPoint x="1190" y="586" as="sourcePoint" />
             <mxPoint x="790" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-1" value="ST: ฝ่ายบัญชี (ลูกหนี้)&lt;br&gt;ตั้งลูกหนี้การค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="741" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-3" value="ข้อมูลรายการการค้า&lt;br&gt;ลูกหนี้การค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="651" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;2&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-5" value="ข้อมูลรายการการค้า &lt;br&gt;เจ้าหนี้การค้า" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="425" y="730" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-6" value="ST: ฝ่ายบัญชี (ลูกหนี้)&lt;br&gt;พิมพ์รายการหนี้ที่ถึงกำหนดชำระ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="831" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-7" value="ST: ฝ่ายบัญชี (ลูกหนี้)&lt;br&gt;จัดทำใบวางบิล" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="920" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-8" value="ST: ฝ่ายบัญชี (ลูกหนี้)&lt;br&gt;เมื่อลูกหนี้ชำระฯ: บันทึกใบเสร็จรับเงิน" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1010" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-9" value="ใบเสร็จรับเงิน, ใบสำคัญรับ, รับเช็ค" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1100" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-4" target="dSqNsIodyWDdaizZ1Ah2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1160" as="sourcePoint" />
+            <mxPoint x="790" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-12" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=space+mono&quot; face=&quot;space mono&quot;&gt;2&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="940" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-12" target="dSqNsIodyWDdaizZ1Ah2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="890" as="sourcePoint" />
+            <mxPoint x="790" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-9" target="YuSDF8P-QCdf2GNEPpNd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="910" as="sourcePoint" />
+            <mxPoint x="810" y="950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="1125" />
+              <mxPoint x="920" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-3" target="YuSDF8P-QCdf2GNEPpNd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="910" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-1" target="YuSDF8P-QCdf2GNEPpNd-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="711" as="sourcePoint" />
+            <mxPoint x="1060" y="751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-6" target="YuSDF8P-QCdf2GNEPpNd-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="801" as="sourcePoint" />
+            <mxPoint x="1060" y="841" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-7" target="YuSDF8P-QCdf2GNEPpNd-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="891" as="sourcePoint" />
+            <mxPoint x="1060" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YuSDF8P-QCdf2GNEPpNd-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YuSDF8P-QCdf2GNEPpNd-8" target="YuSDF8P-QCdf2GNEPpNd-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="980" as="sourcePoint" />
+            <mxPoint x="1060" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
