@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T05:55:08.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="cjnZtcRybTkqiWd5gZNV" version="21.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-14T05:56:59.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.69" etag="15CeWeQU4n8UEuHwww_E" version="21.0.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="OPD-IPD">
     <mxGraphModel dx="1386" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1233,7 +1233,7 @@
         <mxCell id="dSqNsIodyWDdaizZ1Ah2-5" value="ST: ฝ่ายบัญชี&lt;br&gt;เตรียมเอกสารประกอบการทำบัญชี" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
           <mxGeometry x="680" y="1100" width="200" height="50" as="geometry" />
         </mxCell>
-        <UserObject label="ST: ฝ่ายบัญชี&lt;br&gt;บันทึกรายการในบัญชี: &lt;br&gt;สมุดรายวันทั่วไป" link="https://viewer.diagrams.net/?tags=%7B%7D&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=drcombi_diagram.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fanun311%2Foffice%2Fmain%2Fdrcombi_diagram.drawio" linkTarget="_blank" id="dSqNsIodyWDdaizZ1Ah2-6">
+        <UserObject label="ST: ฝ่ายบัญชี&lt;br&gt;บันทึกรายการในบัญชี: &lt;br&gt;สมุดรายวันทั่วไป" link="https://1drv.ms/b/s!Aid6FplhSANKjFjOjBPwEIhQccKQ?e=APesl4" linkTarget="_blank" id="dSqNsIodyWDdaizZ1Ah2-6">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontFamily=space mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dspace%2Bmono;" parent="1" vertex="1">
             <mxGeometry x="680" y="1260" width="200" height="50" as="geometry" />
           </mxCell>
